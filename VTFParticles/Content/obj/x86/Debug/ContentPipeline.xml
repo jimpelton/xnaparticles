@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Shaders\Particle.fx</Source>
+      <Name>Shaders\Particle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\bin\x86\Debug\Content\Shaders\Particle.xnb</Output>
+      <Time>2011-10-07T14:45:50.284224-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\MouseForce.fx</Source>
+      <Name>Shaders\MouseForce</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\bin\x86\Debug\Content\Shaders\MouseForce.xnb</Output>
+      <Time>2011-10-07T14:45:50.2912244-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Flare.dds</Source>
+      <Name>Textures\Flare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\bin\x86\Debug\Content\Textures\Flare.xnb</Output>
+      <Time>2011-10-07T14:45:50.0152086-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Bitmap1.bmp</Source>
+      <Name>Textures\Bitmap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\bin\x86\Debug\Content\Textures\Bitmap1.xnb</Output>
+      <Time>2011-10-07T14:45:50.0552109-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\FlowerBurst.jpg</Source>
+      <Name>Textures\FlowerBurst</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\bin\x86\Debug\Content\Textures\FlowerBurst.xnb</Output>
+      <Time>2011-10-07T14:45:50.0682116-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\StarBurst.jpg</Source>
+      <Name>Textures\StarBurst</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\bin\x86\Debug\Content\Textures\StarBurst.xnb</Output>
+      <Time>2011-10-07T14:45:50.04021-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\AlienBug.jpg</Source>
+      <Name>Textures\AlienBug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\bin\x86\Debug\Content\Textures\AlienBug.xnb</Output>
+      <Time>2011-10-07T14:45:50.0262092-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\jim\Documents\programming\3D\VTFParticles\VTFParticles\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-20T07:55:04.8911813-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
