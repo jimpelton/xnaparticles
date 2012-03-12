@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTFParticles", "VTFParticles\VTFParticles.csproj", "{27F3FF7B-ECDC-4C37-8796-FDB7512ACC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F3FF7B-ECDC-4C37-8796-FDB7512ACC3B}.Debug|x86.ActiveCfg = Debug|x86
+		{27F3FF7B-ECDC-4C37-8796-FDB7512ACC3B}.Debug|x86.Build.0 = Debug|x86
+		{27F3FF7B-ECDC-4C37-8796-FDB7512ACC3B}.Release|x86.ActiveCfg = Release|x86
+		{27F3FF7B-ECDC-4C37-8796-FDB7512ACC3B}.Release|x86.Build.0 = Release|x86
+		{68C8B83D-F0A9-47E2-8317-D542FF0159D9}.Debug|x86.ActiveCfg = Debug|x86
+		{68C8B83D-F0A9-47E2-8317-D542FF0159D9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
